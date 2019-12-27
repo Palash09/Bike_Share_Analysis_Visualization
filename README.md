@@ -23,7 +23,7 @@ There are lot of trips with short duration, as can be seen in this chart. So, I 
 
 Chart when short duration trips has been removed from the dataset.
 
-![Map-1](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map.1.png)
+![Map-1](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map-1.png)
 
 This map shows bike stations which are present in the given region.
 
