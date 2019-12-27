@@ -27,12 +27,12 @@ Chart when short duration trips has been removed from the dataset.
 
 This map shows bike stations which are present in the given region.
 
-![Map-2](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map.2.png)
+![Map-2](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map-2.png)
 
 This heatmap depicts the distribution of subscriber and customer in the region. The red region the in map shows excessive usage
 and other parts show the extent of bikes used.
 
-![Map-3](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map.3.png)
+![Map-3](https://github.com/Palash09/Bike_Share_Analysis_Visualization/blob/master/Map-3.png)
 
 From the maps above, inference made suggests that tourists get on a bike to experience Chicago in a different way before continuing with other parts of their trip.
 
